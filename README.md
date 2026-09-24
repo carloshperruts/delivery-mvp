@@ -6,10 +6,12 @@ Prof. Msc. Rodrigo Braga.
 
 ## Integrantes da Equipe
 
-- [Seu Nome] - [Matrícula]
+| Nome          | Matrícula | Função                     |
+|---------------|-----------|-----------------------------|
+| Carlos Henrique Perrut Soares | 06020357  | Desenvolvimento Front-End   |
 
-> Projeto em desenvolvimento individual. Novos integrantes poderão ser
-> adicionados posteriormente.
+> Projeto iniciado individualmente. Novos integrantes serão adicionados
+> a esta tabela conforme entrarem na equipe.
 
 ## Situação-Problema
 
