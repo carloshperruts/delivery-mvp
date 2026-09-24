@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delivery Fácil - Faça seu Pedido</title>
+    <!-- CSS EXTERNO -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>🍔 Delivery Fácil</h1>
+        <p>Escolha seus itens e monte seu pedido</p>
+    </header>
+
+    <main>
+
+        <!-- Área onde os produtos serão carregados dinamicamente pelo JS -->
+        <section id="cardapio">
+            <h2>Cardápio</h2>
+            <div id="lista-produtos" class="grid-produtos">
+                <!-- Os cards de produto serão inseridos aqui via JavaScript -->
+                <p id="carregando">Carregando cardápio...</p>
+            </div>
+        </section>
+
+        <!-- Área do carrinho / resumo do pedido -->
+        <aside id="carrinho">
+            <h2>Seu Pedido</h2>
+            <ul id="lista-carrinho">
+                <li id="carrinho-vazio">Nenhum item adicionado ainda.</li>
+            </ul>
+            <div class="total">
+                <strong>Total: R$ <span id="valor-total">0,00</span></strong>
+            </div>
+            <button id="btn-finalizar" class="btn-finalizar">
+                Finalizar Pedido
+            </button>
+        </aside>
+
+    </main>
+
+    <footer>
+        <p>MVP Front-End Development - Unifeso - 2026</p>
+    </footer>
+
+    <!-- JS EXTERNO -->
+    <script src="script.js"></script>
+</body>
+</html>

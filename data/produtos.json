@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nome": "Pizza Margherita",
+    "categoria": "Pizzas",
+    "preco": 39.90,
+    "descricao": "Molho de tomate, mussarela e manjericão fresco"
+  },
+  {
+    "id": 2,
+    "nome": "Pizza Calabresa",
+    "categoria": "Pizzas",
+    "preco": 42.90,
+    "descricao": "Molho de tomate, calabresa fatiada e cebola"
+  },
+  {
+    "id": 3,
+    "nome": "Hambúrguer Artesanal",
+    "categoria": "Lanches",
+    "preco": 28.50,
+    "descricao": "Pão brioche, carne 180g, queijo cheddar e molho especial"
+  },
+  {
+    "id": 4,
+    "nome": "Batata Frita",
+    "categoria": "Acompanhamentos",
+    "preco": 15.00,
+    "descricao": "Porção generosa de batatas rústicas"
+  },
+  {
+    "id": 5,
+    "nome": "Refrigerante Lata",
+    "categoria": "Bebidas",
+    "preco": 6.50,
+    "descricao": "Lata 350ml, diversos sabores"
+  },
+  {
+    "id": 6,
+    "nome": "Suco Natural",
+    "categoria": "Bebidas",
+    "preco": 9.90,
+    "descricao": "Copo 500ml, sabores da estação"
+  }
+]
