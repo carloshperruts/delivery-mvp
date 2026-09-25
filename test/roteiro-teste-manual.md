@@ -2,10 +2,30 @@
 
 Como este é um MVP simples de front-end (sem back-end ainda), os testes
 por enquanto são manuais. Siga o roteiro abaixo para validar se está tudo
-funcionando:
+funcionando.
 
 ## Pré-requisito
-Abra o arquivo `src/index.html` no navegador (Chrome, Edge, Firefox etc.)
+
+Este projeto carrega os produtos dinamicamente a partir de um arquivo
+JSON (`data/produtos.json`) usando `fetch()`. Por restrição de segurança
+dos navegadores, **não é possível abrir o `index.html` diretamente com
+duplo clique** (URLs no formato `file://...`) — o `fetch()` é bloqueado
+e o cardápio não carrega.
+
+É necessário rodar um servidor local. Duas opções:
+
+**Opção 1 - Live Server (VS Code)**
+1. Instale a extensão "Live Server" no VS Code.
+2. Clique com o botão direito em `src/index.html`.
+3. Selecione "Open with Live Server".
+
+**Opção 2 - Servidor HTTP do Python**
+1. Abra o terminal na raiz do projeto (pasta `delivery-mvp`).
+2. Execute:
+   ```
+   python -m http.server
+   ```
+3. Acesse `http://localhost:8000/src/index.html` no navegador.
 
 ## Casos de teste
 
