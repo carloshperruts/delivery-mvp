@@ -35,6 +35,12 @@ Este é o primeiro estágio do projeto, focado exclusivamente no
 **front-end**. Em etapas futuras da disciplina, o projeto será
 expandido com Back-End (persistência real dos pedidos) e Mobile.
 
+## Demonstração
+
+Veja abaixo como executar o MVP localmente e o sistema funcionando:
+
+![Demonstração de execução do MVP](docs/demo-execucao.gif)
+
 ## Tecnologias Utilizadas
 
 - HTML5
@@ -53,17 +59,24 @@ delivery-mvp/
 │   └── produtos.json
 ├── test/           # Roteiro de testes
 │   └── roteiro-teste-manual.md
+├── docs/           # Documentação (GIF de demonstração)
+│   └── demo-execucao.gif
 └── README.md
 ```
 
 ## Como Executar Localmente
 
-1. Faça o download ou clone deste repositório.
-2. Abra o arquivo `src/index.html` diretamente no navegador.
-   - Alternativa recomendada: use a extensão "Live Server" do VS Code
-     para evitar problemas de carregamento do arquivo JSON.
-3. O cardápio será carregado automaticamente e o pedido pode ser montado
-   pela interface.
+1. Faça o download ou clone este repositório.
+2. O projeto carrega os produtos de um arquivo JSON, então **não funciona
+   abrindo o `index.html` com duplo clique**. É necessário um servidor local.
+3. Abra o terminal na **raiz do projeto** (pasta `delivery-mvp`) e execute:
+```
+   python -m http.server
+```
+4. Acesse `http://localhost:8000/src/index.html` no navegador.
+
+Alternativa: use a extensão "Live Server" do VS Code (botão direito em
+`src/index.html` e "Open with Live Server").
 
 ## Informações Adicionais
 
