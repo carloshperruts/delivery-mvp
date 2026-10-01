@@ -10,7 +10,7 @@ Prof. Msc. Rodrigo Braga.
 |---------------|-----------|-----------------------------|
 | Carlos Henrique Perrut Soares | 06020357  | Desenvolvimento Front-End   |
 | Pedro Henrique de Souza Cardoso | 06019569  | Desenvolvimento Front-End   |
-
+ Lucas de Almeida Gomes | 06014382  | Desenvolvimento Front-End   |
 > Projeto iniciado individualmente. Novos integrantes serão adicionados
 > a esta tabela conforme entrarem na equipe.
 
