@@ -4,41 +4,47 @@
     "nome": "Pizza Margherita",
     "categoria": "Pizzas",
     "preco": 39.90,
-    "descricao": "Molho de tomate, mussarela e manjericão fresco"
+    "descricao": "Molho de tomate, mussarela e manjericão fresco",
+    "imagem": "imagens/pizza-margherita.png"
   },
   {
     "id": 2,
     "nome": "Pizza Calabresa",
     "categoria": "Pizzas",
     "preco": 42.90,
-    "descricao": "Molho de tomate, calabresa fatiada e cebola"
+    "descricao": "Molho de tomate, calabresa fatiada e cebola",
+    "imagem": "imagens/pizza-calabresa.png"    
   },
   {
     "id": 3,
     "nome": "Hambúrguer Artesanal",
     "categoria": "Lanches",
     "preco": 28.50,
-    "descricao": "Pão brioche, carne 180g, queijo cheddar e molho especial"
+    "descricao": "Pão brioche, carne 180g, queijo cheddar e molho especial",
+    "imagem": "imagens/hamburguer-artesanal.png"
   },
   {
     "id": 4,
     "nome": "Batata Frita",
     "categoria": "Acompanhamentos",
     "preco": 15.00,
-    "descricao": "Porção generosa de batatas rústicas"
+    "descricao": "Porção generosa de batatas rústicas",
+    "imagem": "imagens/batata-frita.png"
   },
   {
     "id": 5,
     "nome": "Refrigerante Lata",
     "categoria": "Bebidas",
     "preco": 6.50,
-    "descricao": "Lata 350ml, diversos sabores"
+    "descricao": "Lata 350ml, diversos sabores",
+    "imagem": "imagens/refrigerante-lata.png"
   },
   {
     "id": 6,
     "nome": "Suco Natural",
     "categoria": "Bebidas",
     "preco": 9.90,
-    "descricao": "Copo 500ml, sabores da estação"
+    "descricao": "Copo 500ml, sabores da estação",
+    "imagem": "imagens/suco-natural.png"
   }
 ]
