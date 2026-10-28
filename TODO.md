@@ -8,30 +8,36 @@ Marque com `[x]` quando concluir uma tarefa.
 | Responsável | Tarefas |
 |---|---|
 | **Carlos Henrique Perrut Soares** | Revisão geral e integração (merge das branches no GitHub), ajustes técnicos pontuais |
-| **Pedro Henrique de Souza Cardoso** | *(escolher tarefas abaixo)* |
-| **Lucas de Almeida Gomes** | *(escolher tarefas abaixo)* |
+| **Pedro Henrique de Souza Cardoso** | Funcionalidades do carrinho (remover item, alterar quantidade, mensagem de pedido vazio) e testes dessas funcionalidades |
+| **Lucas de Almeida Gomes** | Responsividade e dados (layout para celular, imagens, mais produtos no cardápio) e testes dessas partes |
 
 ---
 
-## Funcionalidades
+## Carlos - Revisão e Integração
+
+- [x] Revisar e fazer o merge do PR #1 (responsividade e imagens)
+- [ ] Revisar e fazer o merge dos próximos PRs da equipe
+- [ ] Ajustes técnicos pontuais (bugs pequenos)
+
+## Pedro - Funcionalidades do Carrinho
 
 - [ ] Permitir remover item do carrinho
 - [ ] Permitir alterar a quantidade de um item já adicionado
 - [ ] Melhorar validação/mensagem ao tentar finalizar pedido vazio
+- [ ] Roteiro de testes: casos das novas funcionalidades do carrinho
 
-## Responsividade e Dados
+## Lucas - Responsividade e Dados
 
 - [x] Tornar o layout responsivo (boa exibição em celular)
-- [ ] Expandir o `produtos.json` com mais itens/categorias
 - [x] Adicionar imagens aos produtos (fotos ou ícones)
-
-## Documentação e Testes
-
 - [x] Roteiro de testes: casos de responsividade e imagens
-- [ ] Roteiro de testes: casos das novas funcionalidades do carrinho
+- [ ] Expandir o `produtos.json` com mais itens/categorias
+
+## Documentação
+
 - [x] Atualizar tabela de integrantes no `README.md`
 
-## Apresentação (Av2 - Pitch)
+## Apresentação (Av2 - Pitch) - Todos juntos
 
 - [ ] Montar o slide de apresentação do projeto
 - [ ] Definir quem fala o quê na apresentação
