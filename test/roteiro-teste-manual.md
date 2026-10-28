@@ -57,3 +57,20 @@ e o cardápio não carrega.
 - Persistência do pedido em banco de dados
 - Validação de estoque
 - Cálculo de frete
+## Testes de responsividade e imagens
+
+7. **Responsividade em tablets**
+   - Abra a página em uma tela com largura de até 768 pixels.
+   - Esperado: o cardápio e o carrinho ficam organizados verticalmente, ocupando a largura disponível, sem cortes ou rolagem horizontal indesejada.
+
+8. **Responsividade em celulares**
+   - Abra a página em uma tela com largura de até 480 pixels.
+   - Esperado: os produtos aparecem em uma coluna, os textos ficam legíveis e os botões continuam visíveis e fáceis de clicar.
+
+9. **Exibição das imagens dos produtos**
+   - Verifique se cada um dos 6 produtos apresenta sua imagem correspondente.
+   - Esperado: as imagens aparecem dentro dos cards, sem distorção ou ultrapassar os limites do cardápio.
+
+10. **Funcionamento do carrinho em telas pequenas**
+    - Em uma tela de celular, adicione um produto ao carrinho e depois adicione outro.
+    - Esperado: os itens aparecem corretamente, o total é atualizado e o botão "Finalizar Pedido" permanece acessível.

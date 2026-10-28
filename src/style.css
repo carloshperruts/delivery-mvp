@@ -262,3 +262,13 @@ footer {
     }
 }
 
+/* Imagens dos produtos */
+.produto-imagem {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    display: block;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+

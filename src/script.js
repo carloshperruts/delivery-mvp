@@ -51,6 +51,7 @@ function exibirProdutos(produtos) {
         // template string (crase `` `` ``) permite escrever HTML
         // misturado com variáveis usando ${ }
         card.innerHTML = `
+            <img src="${produto.imagem}" alt="${produto.nome}" class="produto-imagem">
             <span class="categoria">${produto.categoria}</span>
             <h3>${produto.nome}</h3>
             <p class="descricao">${produto.descricao}</p>
