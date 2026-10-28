@@ -55,13 +55,17 @@ delivery-mvp/
 ├── src/            # Código-fonte do MVP
 │   ├── index.html
 │   ├── style.css
-│   └── script.js
+│   ├── script.js
+│   └── imagens/    # Imagens dos produtos
 ├── data/           # Dados utilizados pela aplicação
 │   └── produtos.json
 ├── test/           # Roteiro de testes
 │   └── roteiro-teste-manual.md
-├── docs/           # Documentação (GIF de demonstração)
-│   └── demo-execucao.gif
+├── docs/           # Documentação
+│   ├── demo-execucao.gif
+│   └── guia-git-equipe.md
+├── TODO.md         # Divisão e acompanhamento de tarefas
+├── LICENSE
 └── README.md
 ```
 
@@ -78,6 +82,10 @@ delivery-mvp/
 
 Alternativa: use a extensão "Live Server" do VS Code (botão direito em
 `src/index.html` e "Open with Live Server").
+
+## Guia de Colaboração
+
+Antes de contribuir, leia o [Guia de Git e GitHub da Equipe](docs/guia-git-equipe.md).
 
 ## Informações Adicionais
 
