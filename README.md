@@ -8,9 +8,9 @@ Prof. Msc. Rodrigo Braga.
 
 | Nome          | Matrícula | Função                     |
 |---------------|-----------|-----------------------------|
-| Carlos Henrique Perrut Soares | 06020357  | Desenvolvimento Front-End   |
-| Pedro Henrique de Souza Cardoso | 06019569  | Desenvolvimento Front-End   |
-| Lucas de Almeida Gomes | 06014382  | Desenvolvimento Front-End   |
+| Carlos Henrique Perrut Soares | 06020357  | Desenvolvimento Front-End: revisão geral e integração   |
+| Pedro Henrique de Souza Cardoso | 06019569  | Desenvolvimento Front-End: funcionalidades do carrinho e testes   |
+| Lucas de Almeida Gomes | 06014382  | Desenvolvimento Front-End: responsividade e dados   |
 
 
 ## Situação-Problema
