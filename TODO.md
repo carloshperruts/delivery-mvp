@@ -52,5 +52,5 @@ como uma caixinha marcada automaticamente.
 
 ## Prazos
 
-- **Entrega final do projeto:** 29/11/2026
+- **Entrega final do projeto:** 24/11/2026
 - **Av2 - Apresentação/Pitch:** 01/12/2026

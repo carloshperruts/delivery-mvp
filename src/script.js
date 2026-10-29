@@ -153,3 +153,6 @@ btnFinalizar.addEventListener('click', () => {
     carrinho = [];
     atualizarCarrinho();
 });
+
+// Mostra a mensagem de carrinho vazio assim que a página abre
+atualizarCarrinho();

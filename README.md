@@ -10,9 +10,8 @@ Prof. Msc. Rodrigo Braga.
 |---------------|-----------|-----------------------------|
 | Carlos Henrique Perrut Soares | 06020357  | Desenvolvimento Front-End   |
 | Pedro Henrique de Souza Cardoso | 06019569  | Desenvolvimento Front-End   |
- Lucas de Almeida Gomes | 06014382  | Desenvolvimento Front-End   |
-> Projeto iniciado individualmente. Novos integrantes serão adicionados
-> a esta tabela conforme entrarem na equipe.
+| Lucas de Almeida Gomes | 06014382  | Desenvolvimento Front-End   |
+
 
 ## Situação-Problema
 
@@ -28,7 +27,7 @@ O MVP consiste em uma página web (front-end) que:
 
 - Exibe um cardápio de produtos (carregado dinamicamente de um arquivo
   de dados `produtos.json`);
-- Permite ao usuário adicionar produtos ao carrinho;
+- Permite ao usuário adicionar, remover e alterar a quantidade dos itens no carrinho;
 - Calcula o valor total do pedido automaticamente;
 - Permite finalizar o pedido (simulação, sem back-end nesta etapa).
 
