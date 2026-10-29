@@ -74,3 +74,19 @@ e o cardápio não carrega.
 10. **Funcionamento do carrinho em telas pequenas**
     - Em uma tela de celular, adicione um produto ao carrinho e depois adicione outro.
     - Esperado: os itens aparecem corretamente, o total é atualizado e o botão "Finalizar Pedido" permanece acessível.
+
+11. **Remover item do carrinho**
+    - Adicione um item ao carrinho e clique no botão de lixeira (🗑️) ou "Remover".
+    - Esperado: o item é removido imediatamente da lista e o valor total do pedido é recalculado sem ele.
+
+12. **Alterar quantidade de um item (Aumentar e Diminuir)**
+    - Adicione um item e clique nos botões "+" e "-" do item no carrinho.
+    - Esperado: ao clicar no "+", a quantidade do item aumenta para 2 e o subtotal do item/total da compra dobra. Ao clicar no "-", a quantidade diminui.
+
+13. **Remoção automática ao zerar quantidade**
+    - Em um item com quantidade 1 no carrinho, clique no botão "-".
+    - Esperado: a quantidade chega a 0 e o item é removido do carrinho automaticamente.
+
+14. **Mensagem personalizada de carrinho vazio**
+    - Com o carrinho zerado (ao abrir a página ou remover todos os itens), observe o espaço do carrinho.
+    - Esperado: exibe a mensagem amigável com ícone "🛒 Seu carrinho está vazio!" acompanhada de instruções para escolher itens no cardápio.
