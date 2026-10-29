@@ -16,15 +16,16 @@ Marque com `[x]` quando concluir uma tarefa.
 ## Carlos - Revisão e Integração
 
 - [x] Revisar e fazer o merge do PR #1 (responsividade e imagens)
+- [x] Revisar e fazer o merge do PR #2 (funcionalidades do carrinho)
 - [ ] Revisar e fazer o merge dos próximos PRs da equipe
 - [ ] Ajustes técnicos pontuais (bugs pequenos)
 
 ## Pedro - Funcionalidades do Carrinho
 
-- [ ] Permitir remover item do carrinho
-- [ ] Permitir alterar a quantidade de um item já adicionado
-- [ ] Melhorar validação/mensagem ao tentar finalizar pedido vazio
-- [ ] Roteiro de testes: casos das novas funcionalidades do carrinho
+- [x] Permitir remover item do carrinho
+- [x] Permitir alterar a quantidade de um item já adicionado
+- [x] Melhorar validação/mensagem ao tentar finalizar pedido vazio
+- [x] Roteiro de testes: casos das novas funcionalidades do carrinho
 
 ## Lucas - Responsividade e Dados
 
@@ -52,5 +53,5 @@ como uma caixinha marcada automaticamente.
 
 ## Prazos
 
-- **Entrega final do projeto:** 29/11/2026
+- **Entrega final do projeto:** 24/11/2026
 - **Av2 - Apresentação/Pitch:** 01/12/2026
