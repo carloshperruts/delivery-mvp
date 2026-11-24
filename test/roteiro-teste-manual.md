@@ -31,7 +31,7 @@ e o cardápio não carrega.
 
 1. **Carregamento do cardápio**
    - Ao abrir a página, os produtos devem aparecer automaticamente.
-   - Esperado: 6 produtos visíveis (Pizzas, Lanches, Acompanhamentos, Bebidas).
+   - Esperado: 12 produtos visíveis, divididos em 5 categorias (Pizzas, Lanches, Acompanhamentos, Bebidas e Sobremesas).
 
 2. **Adicionar item ao carrinho**
    - Clique em "Adicionar" em qualquer produto.
@@ -53,10 +53,6 @@ e o cardápio não carrega.
    - Adicione itens e clique em "Finalizar Pedido".
    - Esperado: um alerta mostra o total do pedido, e o carrinho é esvaziado.
 
-## Próximos testes (quando integrar com back-end)
-- Persistência do pedido em banco de dados
-- Validação de estoque
-- Cálculo de frete
 ## Testes de responsividade e imagens
 
 7. **Responsividade em tablets**
@@ -68,7 +64,7 @@ e o cardápio não carrega.
    - Esperado: os produtos aparecem em uma coluna, os textos ficam legíveis e os botões continuam visíveis e fáceis de clicar.
 
 9. **Exibição das imagens dos produtos**
-   - Verifique se cada um dos 6 produtos apresenta sua imagem correspondente.
+   - Verifique se cada um dos 12 produtos apresenta sua imagem correspondente.
    - Esperado: as imagens aparecem dentro dos cards, sem distorção ou ultrapassar os limites do cardápio.
 
 10. **Funcionamento do carrinho em telas pequenas**
@@ -90,3 +86,22 @@ e o cardápio não carrega.
 14. **Mensagem personalizada de carrinho vazio**
     - Com o carrinho zerado (ao abrir a página ou remover todos os itens), observe o espaço do carrinho.
     - Esperado: exibe a mensagem amigável com ícone "🛒 Seu carrinho está vazio!" acompanhada de instruções para escolher itens no cardápio.
+
+## Testes dos novos produtos
+
+15. **Novos produtos no cardápio**
+    - Role a página até o final do cardápio.
+    - Esperado: aparecem Pizza Quatro Queijos, X-Bacon, Anéis de Cebola, Milkshake de Chocolate, Brownie com Sorvete e Pudim de Leite, cada um com imagem, descrição e preço.
+
+16. **Nova categoria "Sobremesas"**
+    - Localize o Brownie com Sorvete e o Pudim de Leite.
+    - Esperado: os dois exibem a categoria "Sobremesas".
+
+17. **Adicionar um produto novo ao carrinho**
+    - Clique em "Adicionar" no X-Bacon e no Pudim de Leite.
+    - Esperado: ambos aparecem no carrinho e o total soma R$ 44,00 (32,00 + 12,00).
+
+## Próximos testes (quando integrar com back-end)
+- Persistência do pedido em banco de dados
+- Validação de estoque
+- Cálculo de frete

@@ -17,8 +17,8 @@ Marque com `[x]` quando concluir uma tarefa.
 
 - [x] Revisar e fazer o merge do PR #1 (responsividade e imagens)
 - [x] Revisar e fazer o merge do PR #2 (funcionalidades do carrinho)
-- [ ] Revisar e fazer o merge dos próximos PRs da equipe
-- [ ] Ajustes técnicos pontuais (bugs pequenos)
+- [x] Revisar e fazer o merge dos próximos PRs da equipe
+- [x] Ajustes técnicos pontuais (bugs pequenos)
 
 ## Pedro - Funcionalidades do Carrinho
 
@@ -32,7 +32,7 @@ Marque com `[x]` quando concluir uma tarefa.
 - [x] Tornar o layout responsivo (boa exibição em celular)
 - [x] Adicionar imagens aos produtos (fotos ou ícones)
 - [x] Roteiro de testes: casos de responsividade e imagens
-- [ ] Expandir o `produtos.json` com mais itens/categorias
+- [x] Expandir o `produtos.json` com mais itens/categorias (12 produtos, 5 categorias)
 
 ## Documentação
 
@@ -40,8 +40,8 @@ Marque com `[x]` quando concluir uma tarefa.
 
 ## Apresentação (Av2 - Pitch) - Todos juntos
 
-- [ ] Montar o slide de apresentação do projeto
-- [ ] Definir quem fala o quê na apresentação
+- [x] Montar o slide de apresentação do projeto
+- [x] Definir quem fala o quê na apresentação
 - [ ] Ensaiar o pitch antes da data da apresentação
 
 ---

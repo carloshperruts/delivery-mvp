@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 238" width="440" height="238">
+<rect width="440" height="238" fill="#fde8d0"/>
+<g transform="translate(57 -6) scale(0.74)">
+<ellipse cx="220" cy="285" rx="125" ry="12" fill="#000" opacity=".12"/><circle cx="220" cy="160" r="115" fill="#d99a4e"/><circle cx="220" cy="160" r="107" fill="#c0392b"/><path d="M220,160 L220.0,59.0 A101,101 0 0 1 321.0,160.0 Z" fill="#f7d154"/><path d="M220,160 L321.0,160.0 A101,101 0 0 1 220.0,261.0 Z" fill="#f2c230"/><path d="M220,160 L220.0,261.0 A101,101 0 0 1 119.0,160.0 Z" fill="#fbe083"/><path d="M220,160 L119.0,160.0 A101,101 0 0 1 220.0,59.0 Z" fill="#f5cb45"/><circle cx="170" cy="110" r="7" fill="#fff3b0" opacity=".85"/><circle cx="260" cy="120" r="7" fill="#fff3b0" opacity=".85"/><circle cx="280" cy="200" r="7" fill="#fff3b0" opacity=".85"/><circle cx="175" cy="215" r="7" fill="#fff3b0" opacity=".85"/><circle cx="225" cy="150" r="7" fill="#fff3b0" opacity=".85"/><circle cx="215" cy="95" r="7" fill="#fff3b0" opacity=".85"/><circle cx="300" cy="160" r="7" fill="#fff3b0" opacity=".85"/><circle cx="150" cy="160" r="7" fill="#fff3b0" opacity=".85"/><path d="M220,59 V261 M119,160 H321" stroke="#d99a4e" stroke-width="3" opacity=".6"/>
+</g>
+</svg>

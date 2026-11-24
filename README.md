@@ -1,5 +1,7 @@
 # Delivery Fácil - MVP Front-End
 
+**Nome da equipe:** Delivery Fácil
+
 Projeto desenvolvido para a disciplina **MVP Front-End Development**
 (Unifeso, curso de ADS, polo Teresópolis), sob orientação do
 Prof. Msc. Rodrigo Braga.
@@ -25,8 +27,9 @@ seu pedido e finalizar a compra.
 
 O MVP consiste em uma página web (front-end) que:
 
-- Exibe um cardápio de produtos (carregado dinamicamente de um arquivo
-  de dados `produtos.json`);
+- Exibe um cardápio de 12 produtos em 5 categorias (Pizzas, Lanches,
+  Acompanhamentos, Bebidas e Sobremesas), carregado dinamicamente de um
+  arquivo de dados `produtos.json`;
 - Permite ao usuário adicionar, remover e alterar a quantidade dos itens no carrinho;
 - Calcula o valor total do pedido automaticamente;
 - Permite finalizar o pedido (simulação, sem back-end nesta etapa).
@@ -37,7 +40,7 @@ expandido com Back-End (persistência real dos pedidos) e Mobile.
 
 ## Demonstração
 
-Veja abaixo como executar o MVP localmente e o sistema funcionando:
+Veja abaixo o sistema funcionando (adicionar itens, alterar quantidade e remover itens do carrinho):
 
 ![Demonstração de execução do MVP](docs/demo-execucao.gif)
 

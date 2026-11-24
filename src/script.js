@@ -102,7 +102,7 @@ function atualizarCarrinho() {
         listaCarrinhoEl.innerHTML = `
             <li id="carrinho-vazio" class="carrinho-vazio-container">
                 <p>🛒 Seu carrinho está vazio!</p>
-                <span>Escolha itens deliciosos no cardápio acima para começar seu pedido.</span>
+                <span>Escolha itens deliciosos no cardápio para começar seu pedido.</span>
             </li>
         `;
         valorTotalEl.textContent = '0,00';
