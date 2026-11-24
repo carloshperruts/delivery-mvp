@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 238" width="440" height="238">
-<rect width="440" height="238" fill="#e3f2fd"/>
-<g transform="translate(57 -6) scale(0.74)">
-<ellipse cx="220" cy="285" rx="135" ry="12" fill="#000" opacity=".12"/><path d="M85,120 q0,-75 135,-75 q135,0 135,75 z" fill="#d68a3c"/><ellipse cx="150" cy="85" rx="6" ry="3" fill="#f6dba8"/><ellipse cx="200" cy="70" rx="6" ry="3" fill="#f6dba8"/><ellipse cx="250" cy="72" rx="6" ry="3" fill="#f6dba8"/><ellipse cx="300" cy="88" rx="6" ry="3" fill="#f6dba8"/><ellipse cx="220" cy="100" rx="6" ry="3" fill="#f6dba8"/><path d="M80,125 q20,22 45,0 t45,0 t45,0 t45,0 t45,0 t45,0 v18 H80z" fill="#5fae3f"/><path d="M85,142 H355 L330,175 L300,150 L270,175 L240,150 L210,175 L180,150 L150,175 L120,150 Z" fill="#f4c430"/><rect x="85" y="150" width="270" height="38" rx="14" fill="#5b3524"/><path d="M90,190 q20,-14 40,0 t40,0 t40,0 t40,0 t40,0 t40,0 v14 q-20,14 -40,0 t-40,0 t-40,0 t-40,0 t-40,0 t-40,0 z" fill="#b5322a"/><path d="M85,205 H355 q0,50 -60,50 H145 q-60,0 -60,-50z" fill="#d68a3c"/>
-</g>
-</svg>

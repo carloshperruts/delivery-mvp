@@ -94,3 +94,16 @@ Antes de contribuir, leia o [Guia de Git e GitHub da Equipe](docs/guia-git-equip
 Este projeto faz parte de um trabalho continuado: o MVP desenvolvido
 aqui no Front-End servirá de base para as próximas disciplinas de
 Back-End e Mobile Development.
+
+## Créditos das imagens
+
+As fotos dos produtos novos (Pizza Quatro Queijos, X-Bacon, Anéis de Cebola,
+Milkshake de Chocolate, Brownie com Sorvete e Pudim de Leite) são do
+[Unsplash](https://unsplash.com), usadas conforme a Licença do Unsplash:
+
+- Pizza Quatro Queijos: Artem Mihailov
+- X-Bacon: David (foodphototasty)
+- Anéis de Cebola: Nathan Dumlao
+- Milkshake de Chocolate: Victor Rutka
+- Brownie com Sorvete: Shivansh Sethi
+- Pudim de Leite: Felippe Lopes
